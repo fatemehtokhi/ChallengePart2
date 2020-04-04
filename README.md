@@ -4,3 +4,4 @@
 PrimeNumber:Which Numbers is primeNumber? 
 ValueAscciNumber:How we show ascci number of a character.
 Convert char to String und viceversa.
+Consecutivesum:

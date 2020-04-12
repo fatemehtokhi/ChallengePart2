@@ -4,7 +4,7 @@ public class Splitstring {
     public static String[] solution(String s) {
         String[] chars = s.split("");
         List<String> dst = new ArrayList<String>();
-        // System.out.println(s+", length: "+chars.length);
+         System.out.println(s+", length: "+chars.length);
 
         for (int i = 0; i < chars.length; i += 2) {
             if (i < chars.length - 1)
@@ -21,8 +21,8 @@ public class Splitstring {
     }
 
     public static void main(String[] args) {
-        solution("abdef");
-        solution("abde");
+        solution("1234");
+        solution("1234567");
     }
 
 }

@@ -8,3 +8,4 @@
 - SplitString:Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
 - Concatenate two Arrays with using method arraycopy
 - Join two list with using Addall() and Stream.
+- ConvertListToArray,With using Method toArray().

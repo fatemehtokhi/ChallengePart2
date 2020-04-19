@@ -10,3 +10,4 @@
 - Join two list with using Addall() and Stream.
 - ConvertListToArray,with using Method toArray().
 - ConvertArrayToList,with using Method asList().
+- Finding Middle of Character in String.(Without For Loop).

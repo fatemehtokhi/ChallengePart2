@@ -12,3 +12,4 @@
 - ConvertArrayToList,with using Method asList().
 - Finding Middle of Character in String.(Without For Loop).
 - Finding Maximum and Minimum value in List.
+- BitCounting: returns the number of bits that are equal to one in the binary representation of that number.

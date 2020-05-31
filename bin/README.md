@@ -15,3 +15,4 @@
 - BitCounting: returns the number of bits that are equal to one in the binary representation of that number.
 - ConvertMapToList:Since map contains a key, value pair, we need two lists to store each of them, namely keyList for keys and valueList for values.
 - CreateDirectory: create directory with using method mkdir().
+- Quotient and Remainder:compute quotient and remainder from divided and divisor.

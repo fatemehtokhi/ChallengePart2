@@ -7,8 +7,6 @@ public class QuotientAndRemainder{
         quotient  = divided/divisor;
         remainder = divided%divisor;
         System.out.println("Quotient is = "+quotient);
-        System.out.println("Remainder is ="+remainder);
-        
+        System.out.println("Remainder is ="+remainder);    
     }
-
 }

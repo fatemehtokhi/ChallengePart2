@@ -16,3 +16,4 @@
 - ConvertMapToList:Since map contains a key, value pair, we need two lists to store each of them, namely keyList for keys and valueList for values.
 - CreateDirectory: create directory with using method mkdir().
 - Quotient and Remainder:compute quotient and remainder from divided and divisor.
+- SumTwoProblem :Given an array of integers nums and and integer target, return the indices of the two numbers such that they add up to target.
